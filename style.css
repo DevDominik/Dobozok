@@ -1,0 +1,53 @@
+div {
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    border-color: burlywood;
+    border-style: dotted;
+}
+
+div p {
+    margin: 3mm;
+    padding-top: 2mm;
+    padding-bottom: 2mm;
+    padding-left: 6mm;
+    padding-right: 6mm;
+    background-color: cornsilk;
+    text-align: justify;
+    text-indent: 1.5cm;
+}
+
+#jobb {
+    width: 80%;
+    margin: auto;
+}
+
+#bal {
+    width: 70%;
+}
+
+.piros {
+    border-right: 3mm darkred;
+    border-style: double;
+    border-left: 0mm white;
+    border-bottom: 0mm white;
+    border-top: 0mm white;
+}
+
+.kek {
+    padding-bottom: 1cm;
+    border-left: 1mm blueviolet;
+    border-bottom: 2mm blue;
+    border-style: dashed;
+    border-top: 0mm white;
+    border-right: 0mm white;
+}
+
+.kek span {
+    color: dodgerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.piros span {
+    color: crimson;
+    font-variant: small-caps;
+}
